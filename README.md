@@ -1,28 +1,36 @@
-# Programming Projects
+# 🚀 University Projects & Code Journey ✨
 
-A comprehensive collection of programming exercises and projects developed during my freshman year at the **Industrial University of Ho Chi Minh City**. This repository documents my journey in mastering system-level programming.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=midasstran&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Active%20Coding-brightgreen?style=flat-square&logo=git" alt="Status" />
+</p>
 
-## 📌 Project Overview
-This repository contains various applications focusing on data structures, file processing, and system efficiency, including:
-* **Word Frequency Counter**: A tool that analyzes text files to identify and rank common vocabulary.
-* **Patient Record Management**: A structured system for handling medical data, billing, and search queries.
+---
 
-## 💻 Technical Implementation & Core Concepts
+## 👨‍💻 Profile Overview
+* **👤 Name:** Trung Minh Tran
+* **🎓 Major:** Computer Science
+* **🏫 Institution:** Industrial University of Ho Chi Minh City (IUH)
+* **📁 Description:** A collection of university projects, course assignments, and programming exercises developed during my studies. This repository documents my journey in mastering system-level programming and software development. 🌟
 
-### 🔹 Advanced Data Modeling with `structs`
-* **Structured Record Management**: Developed complex `struct` definitions to handle diverse data types, such as patient records and linguistic statistics.
-* **Data Integrity**: Applied encapsulation principles to maintain data consistency when passing information across various processing functions.
+---
 
-### 🔹 Dynamic Memory Management
-* **Heap Allocation**: Proficiently utilized `malloc()` and `free()` for dynamic memory allocation, allowing programs to handle large datasets efficiently.
-* **Pointer Expertise**: Leveraged pointers for pass-by-reference and direct memory manipulation to enhance execution speed.
+## 🔍 Featured Projects 
+* **📊 Word Frequency Counter:** A tool that analyzes text files to identify and rank common vocabulary.
+* **🏥 Patient Record Management:** A structured system for handling medical data, billing, and search queries.
 
-[Image of C memory layout showing heap and stack]
+---
 
-### 🔹 File I/O & Data Parsing
-* **Stream Processing**: Managed data streams from text files using `fgets()` and `fscanf()` for robust data handling.
-* **Pattern Matching**: Implemented advanced parsing techniques (e.g., `%[^,]`) to analyze structured data formats like CSV files.
+## 🛠️ Languages & Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 🔹 Algorithmic Logic & String Manipulation
-* **String Tokenization**: Utilized `strtok()` and `<string.h>` library functions to clean and process raw textual data.
-* **Sorting & Analysis**: Implemented sorting algorithms to extract critical insights, such as identifying top-frequency elements.
+---
+
+<p align="center">
+  <i>🌱 "Code, Coffee, and Constant Learning!" ☕✨</i>
+</p>
